@@ -19,19 +19,9 @@
     "name": "导航页",
     "link": "https://nav.agreasjh.fun"
   },
-  // {
-  //   "icon": "Book",
-  //   "name": "网址集",
-  //   "link": "https://web.imsyy.top/"
-  // },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://tophub.today/"
   }
-  // {
-  //   "icon": "LaptopCode",
-  //   "name": "站点监测",
-  //   "link": "https://status.imsyy.top/"
-  // }
 ]

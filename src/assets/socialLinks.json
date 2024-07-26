@@ -5,12 +5,6 @@
     "tip": "去 Github 看看",
     "url": "https://github.com/agreasjh"
   },
-  // {
-  //   "name": "BiliBili",
-  //   "icon": "/images/icon/bilibili.png",
-  //   "tip": "(゜-゜)つロ 干杯 ~",
-  //   "url": "https://space.bilibili.com/98544142"
-  // },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
@@ -35,16 +29,4 @@
     "tip": "去小红书看看",
     "url": "https://www.xiaohongshu.com/user/profile/5d32aaa700000000110283cd"
   }
-  // {
-  //   "name": "Twitter",
-  //   "icon": "/images/icon/twitter.png",
-  //   "tip": "你懂的 ~",
-  //   "url": "https://twitter.com/iimmsyy"
-  // },
-  // {
-  //   "name": "Telegram",
-  //   "icon": "/images/icon/telegram.png",
-  //   "tip": "你懂的 ~",
-  //   "url": "https://t.me/bottom_user"
-  // }
 ]
